@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-shom-fortnite/static/css/main.c657e503.css",
+    "main.js": "/react-shom-fortnite/static/js/main.ddd2709f.js",
+    "index.html": "/react-shom-fortnite/index.html",
+    "main.c657e503.css.map": "/react-shom-fortnite/static/css/main.c657e503.css.map",
+    "main.ddd2709f.js.map": "/react-shom-fortnite/static/js/main.ddd2709f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c657e503.css",
+    "static/js/main.ddd2709f.js"
+  ]
+}
